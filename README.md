@@ -15,6 +15,10 @@ using the library(np.linalg.inv()),calculate the inverse of the matrix.Assign a 
 Print the variable for the inverse.
 
 ## Program:
+# INVERSE-OF-A-MATRIX
+```
+Developed by: ALDRIN LIJO J E
+Ref no: 22008844
 ```py
 import numpy as np
 A=([[6,2,3],[3,1,1],[10,3,4]])
