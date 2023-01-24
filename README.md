@@ -19,6 +19,7 @@ Print the variable for the inverse.
 ```
 Developed by: ALDRIN LIJO J E
 Ref no: 22008844
+```
 ```py
 import numpy as np
 A=([[6,2,3],[3,1,1],[10,3,4]])
